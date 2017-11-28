@@ -1,0 +1,3 @@
+ChromeDriverpath = D:\\Sheetal selenium files\\chromedriver.exe
+ChromeKey = webdriver.chrome.driver
+ApplicationUrl = http://www.xoxoday.com
